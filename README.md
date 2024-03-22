@@ -1,3 +1,4 @@
+```
 S1#show interface trunk
 
 Port        Mode             Encapsulation  Status        Native vlan
@@ -315,3 +316,4 @@ line con 0
 line vty 5 15
 !
 end
+```
